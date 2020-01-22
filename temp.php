@@ -151,7 +151,7 @@ p    {
 
                     </label>
 
-                    <input type="submit" name="Submit" value="Sumbit">
+                    <input type="submit" name="Submit" value="Submit">
 
                 </form>
 
